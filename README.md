@@ -19,5 +19,11 @@ Other than these gif you can also add your own in path ::
 mediainter\\build\\classes
 of project..
 
+you can also take help from the swt.pptx file uploaded here in repository.
+
+And run the project by following path given::
+
+mediainter\\dist\\mediainter..
+
 
 Thank you 
